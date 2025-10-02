@@ -1,0 +1,3 @@
+Hello from PrintWriter!
+This is another line.
+PrintWriter allows easy writing with println.
