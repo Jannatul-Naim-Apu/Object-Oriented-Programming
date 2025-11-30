@@ -97,7 +97,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/java-oop-project.git
+   git clone https://github.com/Jannatul-Naim-Apu/java-oop-project.git
    ```
 
 2. Open the `src` folder in your IDE.
